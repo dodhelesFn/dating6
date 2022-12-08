@@ -45,6 +45,7 @@ z-index: 1;
 
 .btn {
     border-radius: 30px;
+    color: #F0FFFF
 }
 
 @media (pointer: coarse) and (hover: none) {
